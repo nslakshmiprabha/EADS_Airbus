@@ -1,1 +1,17 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 till still all again
+=======
+till still all
+>>>>>>> Stashed changes
+=======
+till still all
+>>>>>>> Stashed changes
+=======
+till still all
+>>>>>>> Stashed changes
+=======
+till still all
+>>>>>>> Stashed changes
